@@ -3,7 +3,7 @@ title: 🪴 Quartz 3.
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Hiya, this is my website! Throughout the site you will be able to find my notes for all of uni, and anything additional as well. From my upbringing to my experiences and even my goals for the future, this website will explain everything there is to know about me!
 
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
